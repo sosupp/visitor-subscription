@@ -1,0 +1,19 @@
+{
+    "name": "pysosu/visitor-subscription",
+    "description": "A laravel package to allow for integrating a custom and fluent visitor, email, newsletter kinds of subscription to any type of web application: blog, company site, ecommerce, etc. Comes with a simple dashboard t to view and manage subscription and composing newletters or simple campagin messages.\"",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pysosu\\VisitorSubscription\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sosupp",
+            "email": "prospersosu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
