@@ -1,6 +1,6 @@
 {
     "name": "pysosu/visitor-subscription",
-    "description": "A laravel package to allow for integrating a custom and fluent visitor, email, newsletter kinds of subscription to any type of web application: blog, company site, ecommerce, etc. Comes with a simple dashboard t to view and manage subscription and composing newletters or simple campagin messages.\"",
+    "description": "A laravel package to allow for integrating a custom and fluent visitor, email, newsletter kinds of subscription to any type of web application: blog, company site, ecommerce, etc. Comes with a simple dashboard t to view and manage subscription and composing newletters or simple campagin messages. Also will support third party emailing API such as Mailchimp\"",
     "type": "library",
     "license": "MIT",
     "autoload": {
